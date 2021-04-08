@@ -9,7 +9,7 @@ http://twitter.com/vamoss
 http://github.com/vamoss
 ******************/
 
-const textToWrite = "Circular Hello Curves";
+const textToWrite = "Suspenso Propenso";
 const SEGMENTS    = 200;
 
 //auto start variables
